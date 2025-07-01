@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**1ayushvyas/1ayushvyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
 
-Here are some ideas to get you started:
+[![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,python,fastapi,go)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql)](https://skillicons.dev)
+[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,nginx,githubactions)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,tailwind,html,css)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases and ORMs: Mysql, MongoDB, PostgreSQL, Redis, Sequelize, Prisma, Drizzle
+
+Infrastructure: AWS, Docker, Nginx, CI/CD, etc.
+
+Front-end: React.js, Next.js, Angular 2+, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Material UI, HTML, CSS 
