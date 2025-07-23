@@ -3,7 +3,7 @@
 **I am a Software Engineer**
 
 
-My website: https://ayushvyas.com
+https://ayushvyas.com
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,python,fastapi,go)](https://skillicons.dev)
